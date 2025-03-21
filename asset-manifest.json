@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VIMALMARUPATLA/porfolio-website/static/css/main.e6c13ad2.css",
+    "main.js": "/VIMALMARUPATLA/porfolio-website/static/js/main.45048345.js",
+    "static/js/453.aac68abc.chunk.js": "/VIMALMARUPATLA/porfolio-website/static/js/453.aac68abc.chunk.js",
+    "index.html": "/VIMALMARUPATLA/porfolio-website/index.html",
+    "main.e6c13ad2.css.map": "/VIMALMARUPATLA/porfolio-website/static/css/main.e6c13ad2.css.map",
+    "main.45048345.js.map": "/VIMALMARUPATLA/porfolio-website/static/js/main.45048345.js.map",
+    "453.aac68abc.chunk.js.map": "/VIMALMARUPATLA/porfolio-website/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.45048345.js"
+  ]
+}
